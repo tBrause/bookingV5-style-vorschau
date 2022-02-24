@@ -1,0 +1,1 @@
+document.write("<div id='astrotel_nav'><ul><li id='snav_11' style='top:0px;'><span class='icons_extern fa-phone'></span><span class='stxt'><a href='tel:*49306458978'>Telefon</a></span></li><li id='snav_12' style='top:55px;'><span class='icons_extern fa-paper-plane'></span><span class='stxt'><a href='mailto:info@domain.de' target='_blank'>E-Mail</a></span></li></ul></div>");

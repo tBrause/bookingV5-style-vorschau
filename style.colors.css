@@ -1,0 +1,20 @@
+/* Anpassung der Farben der Highlight-Navigation */
+
+:root {
+  --mobile-hintergundfarbe-navigation: #000;
+  --mobile-hintergrundfarbe-icon: #f1f1f1;
+  --mobile-schriftfarbe-icon: #666;
+  --mobile-schriftfarbe-text: #fff;
+  --mobile-strichfarbe-unter-text: #ccc;
+
+  --mobile-hintergrundfarbe-close: #fff;
+  --mobile-hintergrundfarbe-close-icon: #333;
+  --mobile-schriftfarbe-close: #fff;
+
+  --desktop-abstand-von-oben: 260px;
+  --desktop-breite: 400px;
+  --desktop-verschoben: -350px;
+  --desktop-hintergrundfarbe-icon-link: #f1f1f1;
+  --desktop-schriftfarbe-icon-text: #666;
+  --desktop-schatten-icon-text: #666;
+}
